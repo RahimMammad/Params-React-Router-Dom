@@ -32,7 +32,7 @@ const Contact = () => {
                     <p>Monday – Saturday: 08AM – 22PM</p>
                   </div>
                 </div>
-                {/* <div id="map"><iframe style="width: 100%; height: 520px;" frameBorder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://maps.google.com/maps?width=622&amp;height=520&amp;hl=en&amp;q=29,%20Neftchi%20Gurban%20street%20Sabayil%20district,%20Baku%201003%20Baku+(AutoPart)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe></div> */}
+                <div style={{width: "100%", padding: "100px 0 100px 0"}}><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%C6%8Fsas%20bina,%2025%20H%C3%BCseyn%20Cavid%20Prospekti,%20Bak%C4%B1%201073+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.maps.ie/population/">Calculate population in area</a></iframe></div>
               </div>
         </section>
   )
